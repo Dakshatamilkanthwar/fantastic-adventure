@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Pytest_learning__/.idea/Pytest_learning__.iml" filepath="$PROJECT_DIR$/../Pytest_learning__/.idea/Pytest_learning__.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testGit/.idea/testGit.iml" filepath="$PROJECT_DIR$/../testGit/.idea/testGit.iml" />
+    </modules>
+  </component>
+</project>

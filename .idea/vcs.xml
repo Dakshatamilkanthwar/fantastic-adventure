@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Pytest_learning__" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Env" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Env/Scripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Env/Scripts/Pytest_learning__" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Env/Scripts/python_file" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Env/Scripts/testGit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../testGit" vcs="Git" />
+  </component>
+</project>
